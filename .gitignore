@@ -22,9 +22,12 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+scripts/
+
 # Build output
 iPainted.app/
 *.app/
+*.dmg
 
 # graphify knowledge-graph output
 graphify-out/
