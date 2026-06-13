@@ -2,13 +2,18 @@
 
 A lightweight, native macOS paint app modeled on Windows 11 Paint.
 
+## Like the project? Consider sponsoring me on GitHub ❤️
+[![Sponsor](https://img.shields.io/badge/Sponsor-MananShah9-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/MananShah9)
+
 ## Easy Install
 
 1. Download the latest **`iPainted-x.y.z.dmg`** from the [Releases page](https://github.com/MananShah9/iPainted/releases).
 2. Open the DMG and drag **iPainted** into your **Applications** folder.
 3. The first time you open it, macOS may say *"iPainted is damaged"* or *"can't be opened because it's from an unidentified developer."*
 
-   **This is normal and the app is safe.** It only means the app isn't signed with a paid Apple Developer account ($99/yr) - not that anything is wrong with it. To open it, do **either** of these once:
+   **This is normal and the app is safe.** It only means the app isn't signed with a paid Apple Developer account ($99/yr) — apparently, making free, open-source software is only cool if you pay Apple rent!
+
+   To open it, do **either** of these once:
    - **Right-click** iPainted in Applications → **Open** → **Open**, or
    - run this one line in Terminal:
      ```sh
@@ -59,6 +64,12 @@ Sources/iPainted/
   UI/                       AppState, ToolbarView, Panels, ContentView
   SelfTest.swift            --selftest engine checks
 ```
+
+## Support
+
+If you find iPainted useful and want to support its development or consider sponsoring! Your support helps and keeps the project going:
+
+- **[Sponsor on GitHub](https://github.com/sponsors/MananShah9)**
 
 ## To raise issues or contribute, please open a GitHub issue or pull request. Contributions are welcome!
 
